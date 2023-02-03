@@ -1,4 +1,4 @@
-﻿#language: ru
+﻿#language: ru 1
 
 @tree
 
